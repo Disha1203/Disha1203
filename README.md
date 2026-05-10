@@ -51,9 +51,7 @@ Concepts        → Federated Learning, Privacy-Enhancing Tech, System Security,
 
 ## Let's Connect
 
--  **Email**: [disharavi118@gmail.com](mailto:disharavi118@gmail.com)
 -  **LinkedIn**: [linkedin.com/in/disha-r-3b430a358](https://www.linkedin.com/in/disha-r-3b430a358)
--  **Location**: Bengaluru, India
 
 Interested in discussing secure systems, privacy tech, cybersecurity challenges, or anything in between? I'd love to chat!
 
